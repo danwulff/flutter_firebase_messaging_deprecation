@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "449870903854",
+    "firebase_url": "https://messaging-deprecation-demo.firebaseio.com",
+    "project_id": "messaging-deprecation-demo",
+    "storage_bucket": "messaging-deprecation-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449870903854:android:5749e089590c1fe1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_messaging_deprecation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449870903854-mj0s9iie4vpt1m2jjgbpn6iq3jq9sk1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJ4fp1XPScTijR8mSEMSyvEuHidrVPLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
